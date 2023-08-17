@@ -1,6 +1,6 @@
 {
     "name": "@soedirgo-org/node-fetch",
-    "private": false,
+    "publishConfig": { "access": "public" },
     "version": "2.6.7",
     "description": "A light-weight module that brings window.fetch to node.js",
     "main": "lib/index.js",
